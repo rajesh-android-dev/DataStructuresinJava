@@ -1,3 +1,4 @@
+<p>This project consists of Custom classes for Datastructures presented in Java</p>
 <p>A Custom Hashtable class created by making use of custom LinkedList class.</p>
 <p>Hashtables are used for storing array, mainly for getting search results quickly without iterating through the whole loop like in linear search.</p>
 <h3><strong>Hashtable functionality:</strong></h3>
